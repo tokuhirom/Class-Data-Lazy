@@ -53,5 +53,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/tokuhirom/Class-Data-Lazy/issues"
+      },
+      "homepage" : "https://github.com/tokuhirom/Class-Data-Lazy",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/tokuhirom/Class-Data-Lazy.git",
+         "web" : "https://github.com/tokuhirom/Class-Data-Lazy"
+      }
+   },
    "version" : "0.01"
 }
